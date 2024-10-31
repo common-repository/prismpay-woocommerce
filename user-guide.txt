@@ -1,0 +1,24 @@
+
+INSTALLING THE PAYMENT PLUGIN
+
+Download the plugin zip file.
+Login to your WordPress Admin. Click on Plugins | Add New from the left menu.
+Click on the "Upload" option, then click "Choose File" to select the zip file from your computer. Once selected, press "OK" and press the "Install Now" button.
+Activate the plugin.
+Open the settings page for WooCommerce and click the "Payment Gateways," tab.
+Click on the sub tab for "PrismPay"
+Configure your "PrismPay" settings. See below for details.
+
+CONNECT TO WOOCOMMERCE
+
+To configure the plugin, go to WooCommerce > Settings from the left hand menu, then the top tab "Payment Gateways". You should see "PrismPay"as an option at the top of the screen.
+You can select the radio button next to this option to make it the default gateway.
+
+Enable/Disable check the box to enable " Enable PrismPay Payment Module".
+Title allows you to determine what your customers will see this payment option as on the checkout page.
+Description controls the message that appears under the payment fields on the checkout page. Here you can list the types of cards you accept.
+Account ID - enter the your account ID.
+Transaction Success Message - enter transaction message.
+Transaction Failed Message - enter transaction fail message.
+API Mode - set api mode on "Live Mode".
+and now click the "Save Changes" Button.
